@@ -1,16 +1,39 @@
-## Hi there 👋
+# Francisco Rafael 👋
 
-<!--
-**frafaeldev/frafaeldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ADS Student | Web Developer | Founder of FR_TechLab
 
-Here are some ideas to get you started:
+I'm passionate about technology, web development and business systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+* SQL & Databases
+* JavaScript
+* Software Engineering
+* Real-world Projects
+
+---
+
+## Current Mission
+
+* Build useful websites
+* Create business solutions
+* Improve SQL skills
+* Grow FR_TechLab
+
+---
+
+## Technologies
+
+HTML • CSS • JavaScript • Python • SQL • Git • GitHub
+
+---
+
+## Featured Project
+
+### Old Cut Barber Shop
+
+A real-world website project developed for a local business.
+
+---
+
+📍 Fortaleza, Ceará - Brazil

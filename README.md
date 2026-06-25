@@ -79,14 +79,10 @@ Fortaleza - Ceará - Brasil
 
 ---
 
-## 🟡 CODE COLLECTION MODE
+## 🐍 FR_TechLab Game Mode
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=COLLECTING+SKILLS...;EATING+BUGS...;UPGRADING+SYSTEM...;BUILDING+PROJECTS..." />
-</p>
-
-<p align="center">
-  <b>🟡 Turning commits into progress</b>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

@@ -82,3 +82,4 @@ Fortaleza - Ceará - Brasil
 Construindo sites e soluções através da FR_TechLab 🚀
 </p>
 
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)

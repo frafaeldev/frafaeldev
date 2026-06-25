@@ -79,15 +79,20 @@ Fortaleza - Ceará - Brasil
 
 ---
 
-## 🕹️ Coding Arcade
+## 📊 FR_TechLab Dashboard
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frafaeldev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <b>Every commit is a new level 🎮</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frafaeldev&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <b>Turning code into real-world solutions 🚀</b>
+</p>
+
 ---
 
 <p align="center">

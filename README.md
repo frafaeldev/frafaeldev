@@ -79,18 +79,14 @@ Fortaleza - Ceará - Brasil
 
 ---
 
-## 🎮 FR_TechLab HUD System
+## 🍄 Level Up System
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frafaeldev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&center=true&vCenter=true&width=700&lines=LEVEL+1+:+ADS+STUDENT;LEVEL+2+:+WEB+DEVELOPER;LEVEL+3+:+FR+TECHLAB+BUILDER" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frafaeldev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <b>⚡ SYSTEM ONLINE • BUILDING REAL-WORLD APPLICATIONS ⚡</b>
+  <b>🎮 Progressing like a game character</b>
 </p>
 
 ---

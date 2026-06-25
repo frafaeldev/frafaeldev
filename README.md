@@ -79,12 +79,6 @@ Fortaleza - Ceará - Brasil
 
 ---
 
-## ✨ Development Flow
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=700&lines=Building+real+projects;Learning+new+technologies;FR+TechLab+in+progress" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>

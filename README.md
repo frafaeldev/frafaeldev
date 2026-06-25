@@ -79,18 +79,14 @@ Fortaleza - Ceará - Brasil
 
 ---
 
-## 📊 FR_TechLab Dashboard
+## 🚗 FR_TechLab City Simulation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frafaeldev&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frafaeldev&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>Turning code into real-world solutions 🚀</b>
+  <b>Simulating development activity as a growing city 🚀</b>
 </p>
 
 ---

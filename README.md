@@ -79,10 +79,18 @@ Fortaleza - Ceará - Brasil
 
 ---
 
-## 🐍 Arcade Mode Active
+## 🎮 FR_TechLab GAME SYSTEM
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;LOADING+DEVELOPER+PROFILE;BUILDING+REAL+PROJECTS" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<p align="center">
+  <b>⚡ REAL-TIME DEVELOPMENT ACTIVITY ⚡</b>
 </p>
 
 ---

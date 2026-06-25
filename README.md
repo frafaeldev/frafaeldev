@@ -1,39 +1,84 @@
-# Francisco Rafael 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Estudante+de+ADS;Desenvolvedor+Web;Fundador+da+FR_TechLab;Entusiasta+de+SQL;Criando+sites+e+sistemas" />
+</p>
 
-### ADS Student | Web Developer | Founder of FR_TechLab
+<h1 align="center">Francisco Rafael 👋</h1>
 
-I'm passionate about technology, web development and business systems.
-
-Currently focused on:
-
-* SQL & Databases
-* JavaScript
-* Software Engineering
-* Real-world Projects
+<h3 align="center">
+Estudante de ADS • Desenvolvedor Web • Fundador da FR_TechLab
+</h3>
 
 ---
 
-## Current Mission
+## 🚀 Sobre Mim
 
-* Build useful websites
-* Create business solutions
-* Improve SQL skills
-* Grow FR_TechLab
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia, desenvolvimento web e criação de soluções para negócios.
 
----
-
-## Technologies
-
-HTML • CSS • JavaScript • Python • SQL • Git • GitHub
+Atualmente estou focado em desenvolver projetos reais, aprimorar meus conhecimentos em SQL, engenharia de software e desenvolvimento de sistemas.
 
 ---
 
-## Featured Project
+## 🎯 Foco Atual
+
+* Banco de Dados e SQL
+* Desenvolvimento Web
+* Sistemas para Negócios
+* Engenharia de Software
+* Projetos Reais
+
+---
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 🏢 FR_TechLab
+
+Projeto voltado ao desenvolvimento de:
+
+* Sites Institucionais
+* Soluções para Empresas
+* Automação de Processos
+* Presença Digital
+
+---
+
+## 📌 Projeto em Destaque
 
 ### Old Cut Barber Shop
 
-A real-world website project developed for a local business.
+Site institucional desenvolvido para uma barbearia real.
+
+**Tecnologias utilizadas:**
+
+* HTML
+* CSS
+* JavaScript
+* Cloudflare Pages
 
 ---
 
-📍 Fortaleza, Ceará - Brazil
+## 📚 Atualmente Estudando
+
+* SQL Avançado
+* Engenharia de Software
+* Desenvolvimento Full Stack
+* Boas Práticas de Programação
+* Git e GitHub
+
+---
+
+## 📍 Localização
+
+Fortaleza - Ceará - Brasil
+
+---
+
+<p align="center">
+Construindo sites e soluções através da FR_TechLab 🚀
+</p>
+

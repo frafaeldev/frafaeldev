@@ -79,14 +79,14 @@ Fortaleza - Ceará - Brasil
 
 ---
 
-## 🍄 Level Up System
+## 🟡 CODE COLLECTION MODE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&center=true&vCenter=true&width=700&lines=LEVEL+1+:+ADS+STUDENT;LEVEL+2+:+WEB+DEVELOPER;LEVEL+3+:+FR+TECHLAB+BUILDER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=COLLECTING+SKILLS...;EATING+BUGS...;UPGRADING+SYSTEM...;BUILDING+PROJECTS..." />
 </p>
 
 <p align="center">
-  <b>🎮 Progressing like a game character</b>
+  <b>🟡 Turning commits into progress</b>
 </p>
 
 ---

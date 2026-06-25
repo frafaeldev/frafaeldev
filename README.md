@@ -79,14 +79,14 @@ Fortaleza - Ceará - Brasil
 
 ---
 
-## 🍄 Developer Adventure
+## 🚗 FR_TechLab City Simulation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <p align="center">
-  <b>Leveling up as a developer 🚀</b>
+  <b>Simulating development activity as a growing city 🚀</b>
 </p>
 
 ---

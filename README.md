@@ -30,20 +30,22 @@ Atualmente estou focado em desenvolver projetos reais, aprimorar meus conhecimen
 
 ## 🛠️ Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql" />
 </p>
 
 ---
 
 ## 🏢 FR_TechLab
 
-Projeto voltado ao desenvolvimento de:
+A FR_TechLab é meu laboratório de tecnologia focado em criar soluções reais para negócios.
 
-* Sites Institucionais
-* Soluções para Empresas
-* Automação de Processos
-* Presença Digital
+**Áreas de atuação:**
+* Sites institucionais
+* Sistemas web
+* Landing pages
+* Automação de processos
+* Soluções digitais
 
 ---
 
@@ -54,7 +56,6 @@ Projeto voltado ao desenvolvimento de:
 Site institucional desenvolvido para uma barbearia real.
 
 **Tecnologias utilizadas:**
-
 * HTML
 * CSS
 * JavaScript
@@ -78,12 +79,18 @@ Fortaleza - Ceará - Brasil
 
 ---
 
+## 🚀 FR_TechLab Activity
+
 <p align="center">
-Construindo sites e soluções através da FR_TechLab 🚀
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-## 🐍 Contribution Snake
+<p align="center">
+  <b>Building real-world systems with code 🚀</b>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<strong>Transformando aprendizado em soluções reais através da FR_TechLab 🚀</strong>
 </p>

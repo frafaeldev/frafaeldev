@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Estudante+de+ADS;Desenvolvedor+Web;Fundador+da+FR_TechLab;Entusiasta+de+SQL;Criando+sites+e+sistemas" />
-</p>
 
-<h1 align="center">Francisco Rafael 👋</h1>
+<h1 align="center">Francisco Rafael</h1>
 
 <h3 align="center">
 Estudante de ADS • Desenvolvedor Web • Fundador da FR_TechLab
 </h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Estudante+de+ADS;Desenvolvedor+Web;Fundador+da+FR_TechLab;Entusiasta+de+SQL;Criando+sites+e+sistemas" />
+</p>
 
 ---
 
